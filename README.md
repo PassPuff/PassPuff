@@ -1,4 +1,4 @@
-![Header](https://github.com/PassPuff/PassPuff/blob/main/assets/nk.jpg)
+![Header](https://github.com/PassPuff/PassPuff/blob/main/assets/nik.jpg)
 
 ## I am a beginner tester. I plan to develop in the field of IT, improve my QA skills.
 

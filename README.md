@@ -1,4 +1,4 @@
-Header 
+![Header](https://github.com/PassPuff/PassPuff/blob/main/assets/nk.jpg)
 
 About me
 

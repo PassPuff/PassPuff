@@ -24,8 +24,14 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <a href="https://strapi.io/" target="_blank" rel="noreferrer">
     <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" alt="Strapi" width="40" height="40"/>
+  </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-1024.png" alt="Docker" width="40" height="40"/>
+  </a>
+    <a href="https://dokploy.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/156882017?s=200&v=4" alt="Dokploy" width="40" height="40"/>
   </a>
 </p>
 

@@ -43,7 +43,4 @@
   <a href="https://t.me/came95" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="@im_molod" height="30" width="30" />
   </a>
-  <a href="https://codepen.io/passpuff/collections/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/passpuff" height="30" width="30" />
-  </a>
 </p>

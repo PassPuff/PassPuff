@@ -9,13 +9,16 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="40" height="40"/>
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
@@ -24,10 +27,8 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency-systems-filled/48/FFFFFF/nextjs.png" alt="Next.js" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-    <a href="https://strapi.io/" target="_blank" rel="noreferrer">
+
+  <a href="https://strapi.io/" target="_blank" rel="noreferrer">
     <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" alt="Strapi" width="40" height="40"/>
   </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
